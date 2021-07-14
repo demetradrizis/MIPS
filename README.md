@@ -1,5 +1,5 @@
 # MIPS
-This repository contains MIPS implementation projects made in the CDA3100 course by Professor Xiuwen Liu at Florida State University.
+This repository contains MIPS implementation projects made in the CDA3100 course by Xiuwen Liu at Florida State University.
 
 # Academic Honesty & Appropriate Use
 
