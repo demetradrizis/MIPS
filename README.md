@@ -1,2 +1,2 @@
 # MIPS
-This repository contains data structures implementation projects made in the COP4530 course by Dr. Weikuan Yu at Florida State University.
+This repository contains data structures implementation projects made in the CDA3100 course by Professor Xiuwen Liu at Florida State University.
